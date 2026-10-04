@@ -1,0 +1,22 @@
+# Java compiled files
+bin/
+*.class
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+
+
+
+
